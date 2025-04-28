@@ -1,5 +1,5 @@
 # AutoGoLivePoster-Twitter-X
-This is an application created in C# in Jetbrains Rider, to work on Linux Mint 21.2. This will automatically post on BlueSky when going live via streamerbot intergration. 
+This is an application created in C# in Jetbrains Rider, to work on Linux Mint 21.2. This will automatically post on Twitter/X when going live via streamerbot intergration. 
 
 
 ### Installation
