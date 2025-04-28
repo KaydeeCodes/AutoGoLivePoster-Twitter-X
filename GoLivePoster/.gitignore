@@ -1,5 +1,4 @@
 settings.json
 *.user
 *.db
-bin/
 obj/

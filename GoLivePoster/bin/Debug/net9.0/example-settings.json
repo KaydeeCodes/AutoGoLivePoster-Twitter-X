@@ -1,0 +1,4 @@
+{
+  "ClientId": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "RedirectUri": "http://localhost:5000/callback/"
+}
